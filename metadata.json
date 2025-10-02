@@ -1,0 +1,5 @@
+{
+  "name": "Prompt AI VEO 3 V.2",
+  "description": "Một ứng dụng web giúp người dùng tạo kịch bản video chi tiết và các prompt tương ứng cho các mô hình AI text-to-video, dựa trên yêu cầu về nội dung, thời lượng và tỉ lệ khung hình.",
+  "requestFramePermissions": []
+}
